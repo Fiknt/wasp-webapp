@@ -85,7 +85,7 @@
 					</div>
 
 					<p class="pb-24 text-center text-xs">
-						For a manual instalation guide for {currentOS.OS} you can go
+						For a manual installation guide for {currentOS.OS} you can go
 						<a
 							href="/tutorials/{currentOS.tutorialID}"
 							class="text-primary-500 dark:text-primary-200 font-semibold hover:underline"
